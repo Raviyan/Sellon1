@@ -2,4 +2,4 @@ ini text dari ujang
 
 Tambahan text dari si ujang
 
-
+text ini ditambah kan secara langsung di web github
